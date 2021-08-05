@@ -31,6 +31,21 @@ p {
   margin: 33px;
 }
 
-.submit {
+.actions {
   padding: 1px 6px;
+}
+
+table {
+  
+  word-wrap: break-word;
+}
+
+th {
+  padding-bottom: 5px;
+}
+
+td {
+  padding-bottom: 7px;
+  padding-left: 5px;
+  padding-right: 5px;
 }
