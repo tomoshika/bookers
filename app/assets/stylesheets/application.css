@@ -28,17 +28,21 @@ body {
   color: #333;
 }
 
+span {
+  font-weight: bold;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
 p {
   margin: 33px;
 }
 
 .actions {
   padding: 1px 6px;
-}
-
-table td {
-  word-break: break-all;
-  word-wrap: break-word;
+  margin-bottom: 10px;
 }
 
 th {
@@ -66,6 +70,15 @@ h2 {
 }
 
 
-.link {
+a {
   color: black;
+}
+
+a:hover {
+  background-color: black;
+  color: white;
+}
+
+#fla {
+  color: green;
 }
