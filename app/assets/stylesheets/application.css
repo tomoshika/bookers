@@ -32,10 +32,6 @@ span {
   font-weight: bold;
 }
 
-h1 {
-  margin-bottom: 20px;
-}
-
 p {
   margin: 33px;
 }
@@ -79,7 +75,11 @@ a:hover {
   color: white;
 }
 
-.flash {
+.edit-logo {
+  margin-bottom: 20px;
+}
+
+#notice {
   color: green;
 }
 
